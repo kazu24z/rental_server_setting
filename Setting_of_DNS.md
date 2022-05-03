@@ -21,14 +21,19 @@
 |無料独自SSL設定|追加|  
 |Xアクセラレータ|有効にする|  
 
+![InkedWS000007_LI](https://user-images.githubusercontent.com/89679815/166407910-f4b8041d-44f2-46e2-ba52-3d7b9fead028.jpg)  
 - 「ドメイン設定一覧」にて、登録したドメインの「反映待ち」が消えるのを待つ（1時間ぐらい）
+![InkedWS000009_LI](https://user-images.githubusercontent.com/89679815/166408103-98b5eb03-77cc-4324-8722-b1cf01c27e5e.jpg)
 
 ## ドメイン提供サービス側設定  
 - 管理コンソールにログイン [URL](https://navi.onamae.com/login) 
 - 「ネームサーバの設定」>「ネームサーバの設定」の順で遷移
 - 「1.ドメインの選択」欄にて、今回登録したいドメイン名にチェックを入れる  
+![InkedWS000000_LI](https://user-images.githubusercontent.com/89679815/166408317-93d14e26-c72c-468c-86a6-eec8edf9a5d4.jpg)
 - 「2.ネームサーバの選択」欄にて、「その他のサービス」タブを開く
+![InkedWS000001_LI](https://user-images.githubusercontent.com/89679815/166408325-474c962b-c417-468b-b8ab-8cffc243d960.jpg)
 - 1つの欄に1つずつ、以下のネームサーバ名を入力し、「確認」を押下
+![InkedWS000004_LI](https://user-images.githubusercontent.com/89679815/166408334-1425742e-0ecf-46b5-a1e3-7820aff81fae.jpg)
 
 |項目|内容|  
 |:--:|:--:|
